@@ -7,3 +7,4 @@ Stack:
 - [Drizzle](https://orm.drizzle.team)
 - [PostgreSQL](https://www.postgresql.org)
 - [Tailwind CSS](https://tailwindcss.com)
+- [AWS Amplify](https://aws.amazon.com/amplify)
