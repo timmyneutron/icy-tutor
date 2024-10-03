@@ -1,6 +1,6 @@
 # Create T3 App
 
-IcyTutor is an AI-powered ISEE and SSAT test prep app.
+[IcyTutor](https://icy-tutor.com) is an AI-powered ISEE and SSAT test prep app.
 
 Stack:
 - [Next.js](https://nextjs.org)
